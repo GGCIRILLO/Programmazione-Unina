@@ -1,0 +1,10 @@
+Franchi
+30
+3
+Java
+10
+C++
+12
+Sql
+7
+

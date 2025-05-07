@@ -1,0 +1,7 @@
+Vulpix ha livello 35 con 100 hp è di tipo Fuoco
+Psyduck ha livello 40 con 100 hp è di tipo Acqua
+Gyrados ha livello 44 con 100 hp è di tipo Acqua
+Exeggutor ha livello 55 con 100 hp è di tipo Erba
+Moltres ha livello 55 con 100 hp è di tipo Fuoco
+Blastoise ha livello 60 con 30 hp è di tipo Acqua
+Arceus ha livello 99 con 80 hp è di tipo Erba

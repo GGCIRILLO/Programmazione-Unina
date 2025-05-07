@@ -1,0 +1,10 @@
+3
+PokemonFuoco
+Vulpix
+35
+PokemonAcqua
+Psyduck
+40
+PokemonErba
+Exeggutor
+55
